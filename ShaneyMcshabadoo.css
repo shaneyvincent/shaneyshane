@@ -1,0 +1,38 @@
+ body { background-color: #FF006E;
+background-image: url(white chocolate.jpg); }
+       color:#E1E7D9;
+       font-family:Handwriting - Dakota, Arial, Verdana, sans-serif;
+center alignment ( text-align: center; )
+      
+}
+#wrapper { margin-left: auto;
+		margin-right: auto;
+		background color (#FFFFFF)
+		text-color (#000066)
+		width:80%;
+}
+\
+h1 { background-image: url(white chocolate.jpg);
+background-repeat: repeat-x
+background-repeat: repeat-y
+height: 100px; width: 700px; font-size: 3em;
+padding-left: 0px; padding-top: 0px;
+border: 0px solid #000033;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px; }
+.nav { font-weight: bold;
+}
+.category {font-weight:bold;
+			color:#003366;
+			background-color:#6699FF
+			font size:1.1em
+}
+#footer { color: #333333;
+          font-size: .70em;
+ 	     
+}
+.companyname { font-weight: bold;
+ font-family: Georgia, "Times New Roman", serif;
+ font-size: 1.25em;
+}

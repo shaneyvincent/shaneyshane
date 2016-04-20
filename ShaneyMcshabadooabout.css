@@ -1,0 +1,54 @@
+body,
+html {
+margin:0;
+padding:10px;
+color:#000;
+background:#E1E7D9;
+}
+
+#wrap {
+width:1200px;
+margin:0 auto;
+background:#E1E7D9;
+}
+#header {
+background:#E1E7D9;
+font-size:0px
+}
+
+#nav {
+background:#E1E7D9;
+}
+#nav ul {
+margin:0;
+padding:0;
+list-style:none;
+}
+#nav li {
+display:inline;
+margin:0;
+padding:0;
+}
+#main {
+background:#E1E7D9;
+}
+#main {
+float:left;
+width:400px;
+background:#E1E7D9;
+
+}
+#footer {
+background:#cc9;
+}
+
+}
+#sidebar {
+
+width:550px;
+background:#FF006E;
+}
+#footer {
+clear:both;
+background:#E1E7D9;
+}

@@ -1,0 +1,36 @@
+body { background-color:#6699ff;
+       color:#d5e3ff;
+       font-family:Arial, Verdana, sans-serif;
+}
+#wrapper { margin-left: auto;
+		margin-right: auto;
+		background color (#FFFFFF)
+		text-color (#000066)
+		width:80%;
+}
+header with a background
+(#ccaa66) and text (#000000) color, center alignment ( text-align: center; ), and
+no margin ( margin: 0; )
+h1 { background-image: url(gradientblue.jpg);
+background-repeat: no-repeat;
+height: 100px; width: 700px; font-size: 3em;
+padding-left: 150px; padding-top: 30px;
+border: 1px solid #000033;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px; }
+.nav { font-weight: bold;
+}
+.category {font-weight:bold;
+			color:#003366;
+			background-color:#6699FF
+			font size:1.1em
+}
+#footer { color: #333333;
+          font-size: .70em;
+ 	     font-style: italic; 
+}
+.companyname { font-weight: bold;
+ font-family: Georgia, "Times New Roman", serif;
+ font-size: 1.25em;
+}
