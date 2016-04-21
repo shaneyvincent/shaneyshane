@@ -1,6 +1,6 @@
 require 'sinatra'
 get '/' do
-  "Hello World"
+  "Shaneys server"
   # File.read(File.join('public', 'stockticker.rb'))
 end
 
