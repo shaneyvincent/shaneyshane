@@ -1,7 +1,7 @@
 require 'sinatra'
 get '/' do
-  "Shaneys server"
-  # File.read(File.join('public', 'stockticker.rb'))
+  # "Shaneys server"
+  File.read(File.join('public', 'index.html'))
 end
 
 get '/sinatra' do
